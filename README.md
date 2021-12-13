@@ -1,2 +1,8 @@
 # SNHU_SDLC
-SNHU portfolio submission for the Software Development Lifecycle course
+SNHU portfolio submission for the Software Development Lifecycle course, includes the sprint review and retrospective deliverable that ties in all of the concepts learned throughout the course. 
+
+1. I interpret user needs and add them into a program by first prioritizing them by the most commonly requested functions. Then I convert them to user stories that contain priority ratings, value statements, and user acceptance criteria. Value statements are important as they concisely describe who the user is, what they want to do, and the value they gain by doing it. User acceptance criteria is also important as it thoroughly defines what criteria must be met to implement a successful user story. Acceptance criteria helps the tester write accurate test cases as well. 
+
+2.  One of the Agile development processes that I'd like to use in the future is test-driven development. Having test cases in place before developing is extremely helpful as it sets criteria that must be met to make sure the code meets the requirements and doesn't include extraneous functionality. Another process I'd like to use is prototyping. Early prototyping allows users , the product owner, and others to be exposed to working core features of a project so that the Agile feedback loop can operate quickly. 
+
+3. There are quite a few things that make a good team member in software development.  Some important traits are honesty and transparency, the ability to take resposnibility for a project as a whole team, and to disagree with a team member's ideas, not them as a person. Quick communication is also important, to let others know that a blocker that affects other team members is eliminated, or to let related members know of a new bug, perhaps.  It's also important to embrace and adapt to change, especially with Agile projects that involve a good deal of uncertainty.
